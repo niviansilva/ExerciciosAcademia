@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\nivia\\.Net\\ExerciciosAcademia\\Exercicio5\\Exercicio5.csproj",
-      "projectName": "Exercicio5",
-      "projectPath": "D:\\nivia\\.Net\\ExerciciosAcademia\\Exercicio5\\Exercicio5.csproj",
+      "projectUniqueName": "C:\\Users\\casps\\source\\repos\\Exercicio 12\\Exercicio 12.csproj",
+      "projectName": "Exercicio 12",
+      "projectPath": "C:\\Users\\casps\\source\\repos\\Exercicio 12\\Exercicio 12.csproj",
       "packagesPath": "C:\\Users\\casps\\.nuget\\packages\\",
-      "outputPath": "D:\\nivia\\.Net\\ExerciciosAcademia\\Exercicio5\\obj\\",
+      "outputPath": "C:\\Users\\casps\\source\\repos\\Exercicio 12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\casps\\AppData\\Roaming\\NuGet\\NuGet.Config",
