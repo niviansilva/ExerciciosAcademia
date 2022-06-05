@@ -1,0 +1,15 @@
+C:\Users\casps\source\repos\Exercicio_1Desafios\bin\Debug\net6.0\Exercicio_1Desafios.exe
+C:\Users\casps\source\repos\Exercicio_1Desafios\bin\Debug\net6.0\Exercicio_1Desafios.deps.json
+C:\Users\casps\source\repos\Exercicio_1Desafios\bin\Debug\net6.0\Exercicio_1Desafios.runtimeconfig.json
+C:\Users\casps\source\repos\Exercicio_1Desafios\bin\Debug\net6.0\Exercicio_1Desafios.dll
+C:\Users\casps\source\repos\Exercicio_1Desafios\bin\Debug\net6.0\Exercicio_1Desafios.pdb
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\Exercicio_1Desafios.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\Exercicio_1Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\Exercicio_1Desafios.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\Exercicio_1Desafios.AssemblyInfo.cs
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\Exercicio_1Desafios.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\Exercicio_1Desafios.dll
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\refint\Exercicio_1Desafios.dll
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\Exercicio_1Desafios.pdb
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\Exercicio_1Desafios.genruntimeconfig.cache
+C:\Users\casps\source\repos\Exercicio_1Desafios\obj\Debug\net6.0\ref\Exercicio_1Desafios.dll

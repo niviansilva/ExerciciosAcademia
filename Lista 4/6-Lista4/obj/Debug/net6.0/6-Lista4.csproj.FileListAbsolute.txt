@@ -1,0 +1,15 @@
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\6-Lista4.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\6-Lista4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\6-Lista4.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\6-Lista4.AssemblyInfo.cs
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\6-Lista4.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\6-Lista4\bin\Debug\net6.0\6-Lista4.exe
+C:\Users\casps\source\repos\6-Lista4\bin\Debug\net6.0\6-Lista4.deps.json
+C:\Users\casps\source\repos\6-Lista4\bin\Debug\net6.0\6-Lista4.runtimeconfig.json
+C:\Users\casps\source\repos\6-Lista4\bin\Debug\net6.0\6-Lista4.dll
+C:\Users\casps\source\repos\6-Lista4\bin\Debug\net6.0\6-Lista4.pdb
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\6-Lista4.dll
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\refint\6-Lista4.dll
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\6-Lista4.pdb
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\6-Lista4.genruntimeconfig.cache
+C:\Users\casps\source\repos\6-Lista4\obj\Debug\net6.0\ref\6-Lista4.dll

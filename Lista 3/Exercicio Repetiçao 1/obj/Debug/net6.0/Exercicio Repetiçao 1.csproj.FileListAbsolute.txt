@@ -1,0 +1,15 @@
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\Exercicio Repetiçao 1.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\Exercicio Repetiçao 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\Exercicio Repetiçao 1.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\Exercicio Repetiçao 1.AssemblyInfo.cs
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\Exercicio Repetiçao 1.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\bin\Debug\net6.0\Exercicio Repetiçao 1.exe
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\bin\Debug\net6.0\Exercicio Repetiçao 1.deps.json
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\bin\Debug\net6.0\Exercicio Repetiçao 1.runtimeconfig.json
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\bin\Debug\net6.0\Exercicio Repetiçao 1.dll
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\bin\Debug\net6.0\Exercicio Repetiçao 1.pdb
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\Exercicio Repetiçao 1.dll
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\refint\Exercicio Repetiçao 1.dll
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\Exercicio Repetiçao 1.pdb
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\Exercicio Repetiçao 1.genruntimeconfig.cache
+C:\Users\casps\source\repos\Exercicio Repetiçao 1\obj\Debug\net6.0\ref\Exercicio Repetiçao 1.dll

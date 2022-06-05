@@ -1,0 +1,15 @@
+C:\Users\casps\source\repos\Exercicio Repeticao 11\bin\Debug\net6.0\Exercicio Repeticao 11.exe
+C:\Users\casps\source\repos\Exercicio Repeticao 11\bin\Debug\net6.0\Exercicio Repeticao 11.deps.json
+C:\Users\casps\source\repos\Exercicio Repeticao 11\bin\Debug\net6.0\Exercicio Repeticao 11.runtimeconfig.json
+C:\Users\casps\source\repos\Exercicio Repeticao 11\bin\Debug\net6.0\Exercicio Repeticao 11.dll
+C:\Users\casps\source\repos\Exercicio Repeticao 11\bin\Debug\net6.0\Exercicio Repeticao 11.pdb
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\Exercicio Repeticao 11.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\Exercicio Repeticao 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\Exercicio Repeticao 11.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\Exercicio Repeticao 11.AssemblyInfo.cs
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\Exercicio Repeticao 11.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\Exercicio Repeticao 11.dll
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\refint\Exercicio Repeticao 11.dll
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\Exercicio Repeticao 11.pdb
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\Exercicio Repeticao 11.genruntimeconfig.cache
+C:\Users\casps\source\repos\Exercicio Repeticao 11\obj\Debug\net6.0\ref\Exercicio Repeticao 11.dll

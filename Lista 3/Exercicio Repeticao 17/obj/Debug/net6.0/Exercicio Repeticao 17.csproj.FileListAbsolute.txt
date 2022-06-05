@@ -1,0 +1,15 @@
+C:\Users\casps\source\repos\Exercicio Repeticao 17\bin\Debug\net6.0\Exercicio Repeticao 17.exe
+C:\Users\casps\source\repos\Exercicio Repeticao 17\bin\Debug\net6.0\Exercicio Repeticao 17.deps.json
+C:\Users\casps\source\repos\Exercicio Repeticao 17\bin\Debug\net6.0\Exercicio Repeticao 17.runtimeconfig.json
+C:\Users\casps\source\repos\Exercicio Repeticao 17\bin\Debug\net6.0\Exercicio Repeticao 17.dll
+C:\Users\casps\source\repos\Exercicio Repeticao 17\bin\Debug\net6.0\Exercicio Repeticao 17.pdb
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\Exercicio Repeticao 17.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\Exercicio Repeticao 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\Exercicio Repeticao 17.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\Exercicio Repeticao 17.AssemblyInfo.cs
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\Exercicio Repeticao 17.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\Exercicio Repeticao 17.dll
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\refint\Exercicio Repeticao 17.dll
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\Exercicio Repeticao 17.pdb
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\Exercicio Repeticao 17.genruntimeconfig.cache
+C:\Users\casps\source\repos\Exercicio Repeticao 17\obj\Debug\net6.0\ref\Exercicio Repeticao 17.dll

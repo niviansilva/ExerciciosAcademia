@@ -1,0 +1,15 @@
+C:\Users\casps\source\repos\Drop 3\bin\Debug\net6.0\Drop 3.exe
+C:\Users\casps\source\repos\Drop 3\bin\Debug\net6.0\Drop 3.deps.json
+C:\Users\casps\source\repos\Drop 3\bin\Debug\net6.0\Drop 3.runtimeconfig.json
+C:\Users\casps\source\repos\Drop 3\bin\Debug\net6.0\Drop 3.dll
+C:\Users\casps\source\repos\Drop 3\bin\Debug\net6.0\Drop 3.pdb
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\Drop 3.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\Drop 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\Drop 3.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\Drop 3.AssemblyInfo.cs
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\Drop 3.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\Drop 3.dll
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\refint\Drop 3.dll
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\Drop 3.pdb
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\Drop 3.genruntimeconfig.cache
+C:\Users\casps\source\repos\Drop 3\obj\Debug\net6.0\ref\Drop 3.dll
