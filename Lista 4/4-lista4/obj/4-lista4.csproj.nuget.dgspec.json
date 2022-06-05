@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\casps\\source\\repos\\4-lista4\\4-lista4.csproj": {}
+    "C:\\Git_nivia_Subir\\ExerciciosAcademia\\Lista 4\\4-lista4\\4-lista4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\casps\\source\\repos\\4-lista4\\4-lista4.csproj": {
+    "C:\\Git_nivia_Subir\\ExerciciosAcademia\\Lista 4\\4-lista4\\4-lista4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\casps\\source\\repos\\4-lista4\\4-lista4.csproj",
+        "projectUniqueName": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\Lista 4\\4-lista4\\4-lista4.csproj",
         "projectName": "4-lista4",
-        "projectPath": "C:\\Users\\casps\\source\\repos\\4-lista4\\4-lista4.csproj",
+        "projectPath": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\Lista 4\\4-lista4\\4-lista4.csproj",
         "packagesPath": "C:\\Users\\casps\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\casps\\source\\repos\\4-lista4\\obj\\",
+        "outputPath": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\Lista 4\\4-lista4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\casps\\AppData\\Roaming\\NuGet\\NuGet.Config",
