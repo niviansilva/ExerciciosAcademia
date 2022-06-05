@@ -10,7 +10,13 @@ int N;
 Console.WriteLine("Digite o valor para a sequencia: ");
 N = int.Parse(Console.ReadLine());
 
-for(int i = 0; i < n; i++)
+int num1 = 0, num2 = 1, aux;
+
+for (int i = 0; i​​​​​​​ < N; i++)
 {
-    Console.WriteLine(i);
+	aux = num1;
+	num1 = num2;
+	num2 = num1 + aux;
+	Console.WriteLine("{0}", num2);
+
 }

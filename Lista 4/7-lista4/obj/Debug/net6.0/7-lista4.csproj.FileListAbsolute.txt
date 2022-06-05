@@ -1,0 +1,15 @@
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\bin\Debug\net6.0\7-lista4.exe
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\bin\Debug\net6.0\7-lista4.deps.json
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\bin\Debug\net6.0\7-lista4.runtimeconfig.json
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\bin\Debug\net6.0\7-lista4.dll
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\bin\Debug\net6.0\7-lista4.pdb
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\7-lista4.csproj.AssemblyReference.cache
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\7-lista4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\7-lista4.AssemblyInfoInputs.cache
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\7-lista4.AssemblyInfo.cs
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\7-lista4.csproj.CoreCompileInputs.cache
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\7-lista4.dll
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\refint\7-lista4.dll
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\7-lista4.pdb
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\7-lista4.genruntimeconfig.cache
+C:\Git_nivia_Subir\ExerciciosAcademia\Lista 4\7-lista4\obj\Debug\net6.0\ref\7-lista4.dll
