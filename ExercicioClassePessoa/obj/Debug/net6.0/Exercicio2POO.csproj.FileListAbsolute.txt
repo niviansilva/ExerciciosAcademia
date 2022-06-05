@@ -1,0 +1,30 @@
+C:\Users\casps\source\repos\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.exe
+C:\Users\casps\source\repos\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.deps.json
+C:\Users\casps\source\repos\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.runtimeconfig.json
+C:\Users\casps\source\repos\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.dll
+C:\Users\casps\source\repos\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.pdb
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.AssemblyInfo.cs
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.dll
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\refint\Exercicio2POO.dll
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.pdb
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.genruntimeconfig.cache
+C:\Users\casps\source\repos\Exercicio2POO\obj\Debug\net6.0\ref\Exercicio2POO.dll
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.exe
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.deps.json
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.runtimeconfig.json
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.dll
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\bin\Debug\net6.0\Exercicio2POO.pdb
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.AssemblyInfo.cs
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.dll
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\refint\Exercicio2POO.dll
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.pdb
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\Exercicio2POO.genruntimeconfig.cache
+C:\Users\casps\source\repos\Exercicios POO\Exercicio2POO\obj\Debug\net6.0\ref\Exercicio2POO.dll
