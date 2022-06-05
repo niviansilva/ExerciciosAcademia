@@ -1,0 +1,15 @@
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\DesafioProblemaEmail.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\DesafioProblemaEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\DesafioProblemaEmail.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\DesafioProblemaEmail.AssemblyInfo.cs
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\DesafioProblemaEmail.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\DesafioProblemaEmail\bin\Debug\net6.0\DesafioProblemaEmail.exe
+C:\Users\casps\source\repos\DesafioProblemaEmail\bin\Debug\net6.0\DesafioProblemaEmail.deps.json
+C:\Users\casps\source\repos\DesafioProblemaEmail\bin\Debug\net6.0\DesafioProblemaEmail.runtimeconfig.json
+C:\Users\casps\source\repos\DesafioProblemaEmail\bin\Debug\net6.0\DesafioProblemaEmail.dll
+C:\Users\casps\source\repos\DesafioProblemaEmail\bin\Debug\net6.0\DesafioProblemaEmail.pdb
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\DesafioProblemaEmail.dll
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\refint\DesafioProblemaEmail.dll
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\DesafioProblemaEmail.pdb
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\DesafioProblemaEmail.genruntimeconfig.cache
+C:\Users\casps\source\repos\DesafioProblemaEmail\obj\Debug\net6.0\ref\DesafioProblemaEmail.dll

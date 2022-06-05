@@ -1,0 +1,15 @@
+C:\Users\casps\source\repos\ProgramaGaragem\bin\Debug\net6.0\ProgramaGaragem.exe
+C:\Users\casps\source\repos\ProgramaGaragem\bin\Debug\net6.0\ProgramaGaragem.deps.json
+C:\Users\casps\source\repos\ProgramaGaragem\bin\Debug\net6.0\ProgramaGaragem.runtimeconfig.json
+C:\Users\casps\source\repos\ProgramaGaragem\bin\Debug\net6.0\ProgramaGaragem.dll
+C:\Users\casps\source\repos\ProgramaGaragem\bin\Debug\net6.0\ProgramaGaragem.pdb
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\ProgramaGaragem.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\ProgramaGaragem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\ProgramaGaragem.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\ProgramaGaragem.AssemblyInfo.cs
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\ProgramaGaragem.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\ProgramaGaragem.dll
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\refint\ProgramaGaragem.dll
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\ProgramaGaragem.pdb
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\ProgramaGaragem.genruntimeconfig.cache
+C:\Users\casps\source\repos\ProgramaGaragem\obj\Debug\net6.0\ref\ProgramaGaragem.dll
