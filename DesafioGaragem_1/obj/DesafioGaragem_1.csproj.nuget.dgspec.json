@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\casps\\source\\repos\\DesafioGaragem_1\\DesafioGaragem_1.csproj": {}
+    "C:\\Git_nivia_Subir\\ExerciciosAcademia\\DesafioGaragem_1\\DesafioGaragem_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\casps\\source\\repos\\DesafioGaragem_1\\DesafioGaragem_1.csproj": {
+    "C:\\Git_nivia_Subir\\ExerciciosAcademia\\DesafioGaragem_1\\DesafioGaragem_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\casps\\source\\repos\\DesafioGaragem_1\\DesafioGaragem_1.csproj",
+        "projectUniqueName": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\DesafioGaragem_1\\DesafioGaragem_1.csproj",
         "projectName": "DesafioGaragem_1",
-        "projectPath": "C:\\Users\\casps\\source\\repos\\DesafioGaragem_1\\DesafioGaragem_1.csproj",
+        "projectPath": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\DesafioGaragem_1\\DesafioGaragem_1.csproj",
         "packagesPath": "C:\\Users\\casps\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\casps\\source\\repos\\DesafioGaragem_1\\obj\\",
+        "outputPath": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\DesafioGaragem_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\casps\\AppData\\Roaming\\NuGet\\NuGet.Config",

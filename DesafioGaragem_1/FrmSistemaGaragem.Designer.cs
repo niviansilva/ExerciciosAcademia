@@ -1,6 +1,6 @@
 ﻿namespace DesafioGaragem_1
 {
-    partial class Form1
+    partial class FrmSistemaGaragem
     {
         /// <summary>
         ///  Required designer variable.
@@ -147,7 +147,7 @@
             // tbSaidaVeiculo
             // 
             this.tbSaidaVeiculo.BackColor = System.Drawing.SystemColors.Menu;
-            this.tbSaidaVeiculo.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.tbSaidaVeiculo.ForeColor = System.Drawing.SystemColors.WindowText;
             this.tbSaidaVeiculo.Location = new System.Drawing.Point(468, 412);
             this.tbSaidaVeiculo.Multiline = true;
             this.tbSaidaVeiculo.Name = "tbSaidaVeiculo";
@@ -371,7 +371,7 @@
             this.tbHrSaida.TabIndex = 20;
             this.tbHrSaida.Visible = false;
             // 
-            // Form1
+            // FrmSistemaGaragem
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -391,7 +391,7 @@
             this.Controls.Add(this.lblSaidaVeiculo);
             this.Controls.Add(this.tbDtEnt);
             this.Controls.Add(this.lblEntVeiculo);
-            this.Name = "Form1";
+            this.Name = "FrmSistemaGaragem";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Sistema Gerenciador de Garagem";
             this.tabControl1.ResumeLayout(false);

@@ -1,10 +1,10 @@
 namespace DesafioGaragem_1
 {
-    public partial class Form1 : Form
+    public partial class FrmSistemaGaragem : Form
     {
         List<Garagem> ListaGaragem = new List<Garagem>();  //Criando lista (vazia) com os atributos da Classe Garagem
         List<Garagem> ListaGaragemSaida = new List<Garagem>();  //Criando lista (vazia) com os atributos da Classe Garagem
-        public Form1()
+        public FrmSistemaGaragem()
         {
 
 
