@@ -1,0 +1,11 @@
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\bin\Debug\SimplesWindowsFormsApp1.exe.config
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\bin\Debug\SimplesWindowsFormsApp1.exe
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\bin\Debug\SimplesWindowsFormsApp1.pdb
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\obj\Debug\SimplesWindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\obj\Debug\SimplesWindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\obj\Debug\SimplesWindowsFormsApp1.CadastroPessoa.resources
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\obj\Debug\SimplesWindowsFormsApp1.Properties.Resources.resources
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\obj\Debug\SimplesWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\obj\Debug\SimplesWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\obj\Debug\SimplesWindowsFormsApp1.exe
+C:\Users\casps\source\repos\SimplesWindowsFormsApp1\obj\Debug\SimplesWindowsFormsApp1.pdb
