@@ -1,0 +1,60 @@
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.csproj.AssemblyReference.cache
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.csproj.GenerateResource.cache
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.AssemblyInfoInputs.cache
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.AssemblyInfo.cs
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.csproj.CoreCompileInputs.cache
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.exe
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.deps.json
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.runtimeconfig.json
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.dll
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.pdb
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.dll
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\refint\DesafioWFDB.dll
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.pdb
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.genruntimeconfig.cache
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\ref\DesafioWFDB.dll
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casps\source\repos\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.csproj.CopyComplete
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.Properties.Resources.resources
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.Frm_CadastroCliente.resources
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.frmCadProduto.resources
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.FrmAtualizaProduto.resources
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.FrmProduto.resources
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.FrmPrincipal.resources
+C:\Users\casps\source\repos\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.FrmVendas.resources
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.exe
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.deps.json
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.runtimeconfig.json
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.dll
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\DesafioWFDB.pdb
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projeto venda\DesafioWFDB\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.csproj.AssemblyReference.cache
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.FrmAtualizaProduto.resources
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.frmCadProduto.resources
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.FrmPrincipal.resources
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.FrmProduto.resources
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.FrmVendas.resources
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.Frm_CadastroCliente.resources
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.Properties.Resources.resources
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.csproj.GenerateResource.cache
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.AssemblyInfoInputs.cache
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.AssemblyInfo.cs
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.csproj.CoreCompileInputs.cache
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.csproj.CopyComplete
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.dll
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\refint\DesafioWFDB.dll
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.pdb
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\DesafioWFDB.genruntimeconfig.cache
+D:\Projeto venda\DesafioWFDB\obj\Debug\net6.0-windows\ref\DesafioWFDB.dll
