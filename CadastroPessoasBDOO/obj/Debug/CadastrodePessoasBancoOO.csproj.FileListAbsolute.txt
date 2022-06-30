@@ -1,0 +1,11 @@
+C:\fontesN\CadastroPessoasBDOO\bin\Debug\SimplesWindowsFormsApp1.exe.config
+C:\fontesN\CadastroPessoasBDOO\bin\Debug\SimplesWindowsFormsApp1.exe
+C:\fontesN\CadastroPessoasBDOO\bin\Debug\SimplesWindowsFormsApp1.pdb
+C:\fontesN\CadastroPessoasBDOO\obj\Debug\CadastrodePessoasBancoOO.csproj.AssemblyReference.cache
+C:\fontesN\CadastroPessoasBDOO\obj\Debug\CadastrodePessoasBancoOO.csproj.SuggestedBindingRedirects.cache
+C:\fontesN\CadastroPessoasBDOO\obj\Debug\SimplesWindowsFormsBanco.CadastroPessoa.resources
+C:\fontesN\CadastroPessoasBDOO\obj\Debug\SimplesWindowsFormsApp1.Properties.Resources.resources
+C:\fontesN\CadastroPessoasBDOO\obj\Debug\CadastrodePessoasBancoOO.csproj.GenerateResource.cache
+C:\fontesN\CadastroPessoasBDOO\obj\Debug\CadastrodePessoasBancoOO.csproj.CoreCompileInputs.cache
+C:\fontesN\CadastroPessoasBDOO\obj\Debug\SimplesWindowsFormsApp1.exe
+C:\fontesN\CadastroPessoasBDOO\obj\Debug\SimplesWindowsFormsApp1.pdb
