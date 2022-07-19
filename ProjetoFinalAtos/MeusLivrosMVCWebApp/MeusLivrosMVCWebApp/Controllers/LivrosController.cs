@@ -63,7 +63,7 @@ namespace MeusLivrosMVCWebApp.Controllers
 
             Livros livro = db.Livro.Find(id);
 
-            db.Entry(Livro).State = System.Data.Entity.EntityState.Deleted;
+            db.Entry(livro).State = System.Data.Entity.EntityState.Deleted;
             db.SaveChanges();
 
 
@@ -99,7 +99,9 @@ namespace MeusLivrosMVCWebApp.Controllers
         public async Task<IActionResult> AtualizaDados(Livros Livro, int id)
         {
 
-            Livro.Id = id;
+            var idvisao = db.visaoLivros.Where(p => p.NomeLivro.Equals(Livro.NomeLivro)).ToList();
+
+            Livro.Id = idvisao[0].IDLivro;
             db.Entry(Livro).State = System.Data.Entity.EntityState.Modified;
             db.SaveChanges();
 

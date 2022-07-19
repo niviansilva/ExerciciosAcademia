@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lWymgH0qpb5MgJj6+bukyaLFEv1/uteIscKXJDRgI05TNxpGOZv6Cj6ZT529O4XefeVlAr7cgH8zMjslFJ5A4g==",
+  "dgSpecHash": "rT5ao1Qp2zKr9gCBuHphX3CwV/LzxMvRATheL8dBgp+J1nuDJ3vIR0sSEM+mT4Lq2Jeky/j6BzuZAV8+/MJhnw==",
   "success": true,
-  "projectFilePath": "D:\\guitCesar\\testeGuit\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj",
+  "projectFilePath": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\ProjetoFinalAtos\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\casps\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\casps\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\guitCesar\\testeGuit\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj": {}
+    "C:\\Git_nivia_Subir\\ExerciciosAcademia\\ProjetoFinalAtos\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj": {}
   },
   "projects": {
-    "D:\\guitCesar\\testeGuit\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj": {
+    "C:\\Git_nivia_Subir\\ExerciciosAcademia\\ProjetoFinalAtos\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\guitCesar\\testeGuit\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj",
+        "projectUniqueName": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\ProjetoFinalAtos\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj",
         "projectName": "MeusLivrosMVCWebApp",
-        "projectPath": "D:\\guitCesar\\testeGuit\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj",
+        "projectPath": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\ProjetoFinalAtos\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp.csproj",
         "packagesPath": "C:\\Users\\casps\\.nuget\\packages\\",
-        "outputPath": "D:\\guitCesar\\testeGuit\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\obj\\",
+        "outputPath": "C:\\Git_nivia_Subir\\ExerciciosAcademia\\ProjetoFinalAtos\\MeusLivrosMVCWebApp\\MeusLivrosMVCWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\casps\\AppData\\Roaming\\NuGet\\NuGet.Config",
