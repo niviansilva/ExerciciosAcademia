@@ -1,0 +1,76 @@
+﻿
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+@{
+
+   IEnumerable<VisaoEmprestados> visaoEmprestados = ViewData["LivrosEmp"] as IEnumerable<VisaoEmprestados>;
+}
+
+<h1>Meus Livros Emprestados</h1>
+
+<p>
+    <input type="button" value="Adicionar" class="btn btn-danger"  onclick="location.href='@Url.Action("Adiciona", "LivrosEmprestados")'" />
+</p>
+<table class="table table-dark table-striped-columns">
+    <thead>
+        <tr>
+             <th>
+                @Html.DisplayName("Nome do Livro")
+            </th>
+            <th>
+                @Html.DisplayName("Nome Amigo(a)")
+            </th>
+            <th>
+                @Html.DisplayName("Telefone")
+            </th>
+            <th>
+                @Html.DisplayName("E-mail")
+            </th>
+             <th>
+                @Html.DisplayName("Data Início")
+            </th>  
+            <th>
+                @Html.DisplayName("Data Devolução")
+            </th>
+              <th>
+                @Html.DisplayName("Emprestado")
+            </th>  
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+  @foreach (VisaoEmprestados item in visaoEmprestados)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NomeLivro)
+                    </td>
+                     <td>
+                        @Html.DisplayFor(modelItem => item.NomeAmigo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Telefone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DataInicio)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DataDevolucao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StatusLivro)
+                    </td>
+                    <td>
+                        <a asp-action="Devolucao" asp-route-id="@item.IDLivroEmprestado">Devolver</a> 
+                    </td>
+                </tr>
+            }
+    </tbody>
+</table>

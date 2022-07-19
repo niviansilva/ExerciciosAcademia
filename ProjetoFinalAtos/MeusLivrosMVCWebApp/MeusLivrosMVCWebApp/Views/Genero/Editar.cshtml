@@ -1,0 +1,28 @@
+﻿@model MeusLivrosMVCWebApp.Models.Genero
+@{
+    ViewData["Title"] = "Cadastro de Livros";
+
+}
+<script src="~/js/main_Livros.js" asp-append-version="true"></script>
+@using(Html.BeginForm("AtualizaDados","Genero", FormMethod.Post))
+{
+     <div> 
+        <section class="row g-3">
+            <h2 class="mb-3 fs-4">Cadastro de Livros</h2>
+                <div class="col-sm-6">
+                    <label for="titulo" class="form-label">Gênero <span class="text-danger">*</span></label>
+                    @Html.TextBoxFor(m=>m.Estilo_Genero, new {Class ="form-control"})
+                    @Html.HiddenFor(m=>m.Id)
+                    <div id="titulo-erro" class="form-text text-danger d-none">Informe um título</div>
+                    <div>
+                        <br></br>
+                    </div>
+                </div>
+          </section>  
+        </div>
+        <div>
+          
+            <input type="submit" class="btn btn-primary" value="Atualizar"/>
+        </div>
+      
+}

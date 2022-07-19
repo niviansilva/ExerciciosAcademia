@@ -1,0 +1,791 @@
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\appsettings.json
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.staticwebassets.runtime.json
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.exe
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.deps.json
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.runtimeconfig.json
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.pdb
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\netstandard.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Console.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Core.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Data.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Web.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\EntityFramework.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.csproj.AssemblyReference.cache
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.AssemblyInfoInputs.cache
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.AssemblyInfo.cs
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.csproj.CoreCompileInputs.cache
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.RazorAssemblyInfo.cache
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.RazorAssemblyInfo.cs
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\scopedcss\bundle\MeusLivrosMVCWebApp.styles.css
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MeusLivrosMVCWebApp.bundle.scp.css
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.csproj.CopyComplete
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\refint\MeusLivrosMVCWebApp.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.pdb
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.genruntimeconfig.cache
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\ref\MeusLivrosMVCWebApp.dll
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.Migrations.InitialCreate.resources
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.csproj.GenerateResource.cache
+C:\Proj Final\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.Migrations.Livros.resources
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\appsettings.json
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.staticwebassets.runtime.json
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.exe
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.deps.json
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.runtimeconfig.json
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\MeusLivrosMVCWebApp.pdb
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\mscorlib.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\netstandard.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Console.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Core.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Data.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Linq.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Memory.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Web.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Windows.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\EntityFramework.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Humanizer.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.csproj.AssemblyReference.cache
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.Migrations.InitialCreate.resources
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.Migrations.Livros.resources
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.csproj.GenerateResource.cache
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.AssemblyInfoInputs.cache
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.AssemblyInfo.cs
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.csproj.CoreCompileInputs.cache
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.RazorAssemblyInfo.cache
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.RazorAssemblyInfo.cs
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\scopedcss\bundle\MeusLivrosMVCWebApp.styles.css
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MeusLivrosMVCWebApp.bundle.scp.css
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.csproj.CopyComplete
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\refint\MeusLivrosMVCWebApp.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.pdb
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.genruntimeconfig.cache
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\ref\MeusLivrosMVCWebApp.dll
+D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\obj\Debug\net6.0\MeusLivrosMVCWebApp.Migrations.MeusLivros_DB.resources

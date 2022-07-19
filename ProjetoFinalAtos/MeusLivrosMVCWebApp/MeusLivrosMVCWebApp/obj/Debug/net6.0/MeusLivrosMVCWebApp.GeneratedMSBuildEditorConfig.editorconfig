@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MeusLivrosMVCWebApp
+build_property.RootNamespace = MeusLivrosMVCWebApp
+build_property.ProjectDir = D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\guitCesar\testeGuit\MeusLivrosMVCWebApp\MeusLivrosMVCWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Genero/Adiciona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXEFkaWNpb25hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Genero/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Genero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/LivrosEmprestados/Adiciona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zRW1wcmVzdGFkb3NcQWRpY2lvbmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/LivrosEmprestados/Devolucao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zRW1wcmVzdGFkb3NcRGV2b2x1Y2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/LivrosEmprestados/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zRW1wcmVzdGFkb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Livros/Adiciona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zXEFkaWNpb25hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Livros/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Livros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/guitCesar/testeGuit/MeusLivrosMVCWebApp/MeusLivrosMVCWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i57pfqc8wv

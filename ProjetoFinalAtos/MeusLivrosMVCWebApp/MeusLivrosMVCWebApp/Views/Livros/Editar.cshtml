@@ -1,0 +1,62 @@
+﻿@model MeusLivrosMVCWebApp.Models.Livros
+@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="~/js/main_Livros.js" asp-append-version="true"></script>
+@using(Html.BeginForm("AtualizaDados","Livros", FormMethod.Post))
+{
+    <div> 
+        <section class="row g-3">
+            <h2 class="mb-3 fs-4">Cadastro de Livros</h2>
+                <div class="col-sm-6">
+                    <label for="titulo" class="form-label">Título do Livro <span class="text-danger">*</span></label>
+                    @Html.TextBoxFor(m=>m.NomeLivro, new {Class ="form-control"})                                
+                    <div id="titulo-erro" class="form-text text-danger d-none">Informe um título</div>
+                </div>
+            <section class="row g-3">
+                <div class="col-sm-4">
+                    <label for="Autor" class="form-label">Nome do Autor <span
+                        class="text-danger">*</span></label>
+                        @Html.TextBoxFor(m=>m.Autor, new {Class ="form-control"})  
+                    <div id="autor-erro" class="form-text text-danger d-none">Informe o nome do Autor</div>
+                 </div>
+                  <div class="col">
+                        <div class="position-relative top-10 start-20 end-30 translate-right">
+                            <figure class="figure">
+                            <img src="https://localhost:7159/imgs/no-image.png" id="foto"/> 
+                            </figure>
+                             <input type='file' id="upload" onchange="readURL(this)" />
+                        </div>
+                    </div>
+                        
+            <!--<div class="col-md-6">-->
+            <div class="row">
+                <div class="col">
+                    <label for="editora" class="form-label">Editora</label>
+                    @Html.TextBoxFor(m=>m.Editora, new {Class ="form-control"})  
+                </div>
+                <div class="col">
+                    <label for="fotoCapa" class="form-label d-none">fotoCapa</label>
+                    @Html.TextBoxFor(m=>m.FotoCapa, new{@id ="fotoCaminho", Class="form-control d-none"})
+                </div>  
+              <div class="col">
+                <label for="genero" class="form-label">Gênero <span
+                        class="text-danger">*</span></label>
+                @Html.DropDownListFor(m => m.ID_Genero, new SelectList(ViewBag.data, "Id", "Estilo_Genero"), new {Class="form-select"})
+                </div>
+            <div class="col">
+                   
+            </div>
+             </section>
+             <hr class="my-3">
+                    <section class="row g-3">
+                        <h2 class="mb-2 fs-5 "><strong>Sinopse</strong></h2>
+                        <div class="mb-3">
+                            @Html.TextAreaFor(m=>m.Sinopse, new{Class="form-control", rows="15"} )
+                         </div> 
+                   </section>
+                            
+        </section>
+        </div>
+            <input type="submit" class="btn btn-primary" value="AtualizaDados"/>
+}

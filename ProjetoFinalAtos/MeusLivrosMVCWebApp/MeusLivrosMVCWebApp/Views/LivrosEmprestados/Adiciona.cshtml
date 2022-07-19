@@ -1,0 +1,43 @@
+﻿@model MeusLivrosMVCWebApp.Models.LivrosEmprestados
+@{
+    ViewData["Title"] = "Empréstimo de Livros";
+
+}
+<script src="~/js/main_Livros.js" asp-append-version="true"></script>
+@using(Html.BeginForm("Cadastrar","LivrosEmprestados", FormMethod.Post))
+{
+     <div> 
+        <section class="row g-3">
+            <h2 class="mb-3 fs-4">Emprestando Meus Livros</h2>
+                <div class="col-sm-6">
+                    <label for="titulo" class="form-label">Livro <span class="text-danger">*</span></label>
+                    @Html.DropDownListFor(m => m.IDLivro, new SelectList(ViewBag.data, "Id", "NomeLivro"), new {Class="form-select"})                              
+                    <div id="titulo-erro" class="form-text text-danger d-none">Informe um título</div>
+                </div>
+            <section class="row g-3">
+                <div class="col-sm-4">
+                    <label for="Autor" class="form-label">Nome do Amigo <span
+                        class="text-danger">*</span></label>
+                        @Html.TextBoxFor(m=>m.NomeAmigo, new {Class ="form-control"})  
+                    <div id="autor-erro" class="form-text text-danger d-none">Informe o nome do Autor</div>
+                 </div>
+                        
+            <!--<div class="col-md-6">-->
+            <div class="row">
+                <div class="col">
+                    <label for="editora" class="form-label">Telefone</label>
+                    @Html.TextBoxFor(m=>m.Telefone, new {Class ="form-control"})  
+                </div>
+                <div class="col">
+                    <label for="fotoCapa" class="form-label">E-mail</label>
+                    @Html.TextBoxFor(m=>m.Email, new{@id ="fotoCaminho", Class="form-control"})
+                </div>  
+                <div>
+                        <br></br>
+                    </div>
+             </section>
+        </section>
+        </div>
+            <input type="submit" class="btn btn-primary" value="Cadastrar"/>
+      
+}

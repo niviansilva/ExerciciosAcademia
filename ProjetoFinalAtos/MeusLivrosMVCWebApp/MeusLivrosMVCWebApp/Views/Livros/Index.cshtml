@@ -1,0 +1,64 @@
+﻿
+
+@{
+    ViewData["Title"] = "Livros Principal";
+}
+
+
+@{
+
+   IEnumerable<VisaoLivros> livros = ViewData["Livros"] as IEnumerable<VisaoLivros>;
+}
+
+<h1>Minha lista de Livros</h1>
+
+<p>
+      <input type="button" value="Adicionar" class="btn btn-danger"  onclick="location.href='@Url.Action("Adiciona", "Livros")'" />
+</p>
+<table class="table table-dark table-striped-columns">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("Nome do Livro")
+            </th>
+            <th>
+                @Html.DisplayName("Autor")
+            </th>
+            <th>
+                @Html.DisplayName("Editora")
+            </th>
+             <th>
+                @Html.DisplayName("Gênero")
+            </th>
+            <th>
+                @Html.DisplayName("Emprestado")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (VisaoLivros livro in livros) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => livro.NomeLivro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => livro.Autor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => livro.Editora)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => livro.Genero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => livro.StatusLivro)
+            </td>
+            <td>
+                <a asp-action="Editar" asp-route-id="@livro.IDLivro">Editar</a> |
+                <a asp-action="Deletar" asp-route-id="@livro.IDLivro">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
